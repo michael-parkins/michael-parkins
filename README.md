@@ -4,8 +4,6 @@
 **michael-parkins/michael-parkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my personal site
 - 🌱 I’m currently learning Go, React and Vue
 - 👯 I’m looking to collaborate on anything to help me learn and grow
