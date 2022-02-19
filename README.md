@@ -4,7 +4,7 @@
 **michael-parkins/michael-parkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on my [personal site](michaelparkins.com)
+- 🔭 I’m currently working on my [personal site](https://github.com/michael-parkins/personal-site-ngx)
 - 🌱 I’m currently learning Go, React, and Vue
 - 📫 How to reach me: https://twitter.com/d00dparkins
 - 😄 Pronouns: He/Him
